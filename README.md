@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Dimas ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **dimas-sehn/dimas-sehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
