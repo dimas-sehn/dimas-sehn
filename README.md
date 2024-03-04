@@ -8,4 +8,4 @@
 - 💬 Ask me about SQL, BI, data analysis, project management, agile coach an cultural production.
 - 📫 How to reach me: sehndimas@gmail.com
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I am a poet that publish 
+- ⚡ Fun fact: I am a poet that publish four books.
